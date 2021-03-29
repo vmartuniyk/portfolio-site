@@ -104,7 +104,7 @@ nav .active {
 }
 
 .checkmark {
-  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M3.664 20.631A12 12 0 1 1 20.632 3.665c4.547 4.708 4.482 12.193-.147 16.821-4.628 4.63-12.113 4.694-16.821.146z' fill='%343434'/%3E%3Cpath d='M8.009 10.689l2.782 2.877 5.2-5.355 1.693 1.768-6.893 7.074-4.475-4.608 1.693-1.769v.013z' fill='%23fff'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M3.664 20.631A12 12 0 1 1 20.632 3.665c4.547 4.708 4.482 12.193-.147 16.821-4.628 4.63-12.113 4.694-16.821.146z' fill='%231C75BC'/%3E%3Cpath d='M8.009 10.689l2.782 2.877 5.2-5.355 1.693 1.768-6.893 7.074-4.475-4.608 1.693-1.769v.013z' fill='%23fff'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   @apply pl-10;
 }
