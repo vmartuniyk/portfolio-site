@@ -43,7 +43,7 @@
           </li>
           <li class="checkmark">
             <div>Book space | Book challenge </div>
-            <div class="text-lg text-gray-600">My author's project.This is a book challenge that lasted 3 weeks. Each participant had to choose 1 book to read it and write a review about the book. This adds extra motivation and encourages the habit of reading every day  <a href="https://github.com/vmartuniyk/recenzias" target="_blank">GitHub Link</a> or <a href="https://bookspace.netlify.app" target="_blank">Live Link</a> </div>
+            <div class="text-lg text-gray-600">My author's project.This is a book challenge that lasted 3 weeks. Each participant had to choose 1 book to read it and write a review about the book. This adds extra motivation and encourages the habit of reading every day  <a href="https://github.com/vmartuniyk/recenzia" target="_blank">GitHub Link</a> or <a href="https://bookspace.netlify.app" target="_blank">Live Link</a> </div>
           </li>
           <li class="checkmark">
             <div>Lace of travel</div>
