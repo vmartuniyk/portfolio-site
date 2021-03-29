@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Volodimir Martuniyk | Portfolio site',
   siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1',
-  siteUrl: 'https://gridsome-portfolio-starter.netlify.com',
+  siteUrl: 'https://martuniyk.netlify.app',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -43,13 +43,13 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'Volodimir Martuniyk | Portfolio site',
-          feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
-          site_url: 'https://gridsome-portfolio-starter.netlify.com/'
+          feed_url: 'https://martuniyk.netlify.app/rss.xml',
+          site_url: 'https://martuniyk.netlify.app/'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
+          url: 'https://martuniyk.netlify.app/' + node.path,
           author: 'Volodimir Martuniyk',
           date: node.date
         }),

@@ -1,6 +1,6 @@
 <template>
   <div class="content-wrapper bg-background-primary font-sans text-copy-primary leading-normal flex flex-col min-h-screen" :class="theme">
-    <header class="top-0 left-0 z-40 fixed w-full border-t-14 border-green-700">
+    <header class="top-0 left-0 z-40 fixed w-full border-t-14 border-indigo-700">
       <nav class="container mx-auto flex flex-wrap justify-between items-center py-4">
         <div>
           <g-link v-if="theme === 'theme-light'" to="/" @click.native="scrollToTop">
@@ -38,9 +38,9 @@
             <a v-if="$route.path === '/'" href="/#contact" v-scroll-to="{ el: '#contact', offset: -25 }" class="text-copy-primary hover:text-gray-600" data-cypress="contact">Contact</a>
             <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Contact</g-link>
           </li>
-          <li>
+          <!-- <li>
             <g-link to="/blog" class="text-copy-primary hover:text-gray-600" data-cypress="blog">Blog</g-link>
-          </li>
+          </li> -->
         </ul>
       </nav>
     </header>
@@ -49,7 +49,7 @@
       <slot/>
     </main>
 
-    <footer class="bg-green-700 text-white">
+    <footer class="bg-indigo-700 text-white">
       <div class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8">
         <div class="mb-8 lg:mb-0">
           <div>Copyright {{ new Date().getFullYear() }}. All rights reserved.</div>

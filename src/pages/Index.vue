@@ -3,7 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16 mt-8">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Volodimir Martuniyk </div>
-        <div class="text-purple-500 leading-tight">Laravel developer</div>
+        <div class="text-indigo-500 leading-tight">Laravel developer</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
@@ -80,40 +80,10 @@
             <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
           </div>
 
-          <p class="mb-12">If you have questions or suggestions for cooperation, send your data in this form</p>
+          <p class="mb-12">If you’re looking to get in contact with me for business inquiries or if you have a question, feel free to <a href="mailto:volodimir.martuniyk@gmail.com">email me.</a>  I’ll try to respond as soon as I can. </p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" class="mb-12">
-              <div class="flex flex-wrap mb-6 -mx-4">
-                  <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
-                      <label class="block mb-2 text-copy-primary" for="name">
-                          Name
-                      </label>
-
-                      <input type="text" name="name" id="name" placeholder="Jon Gold" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
-                  </div>
-
-                  <div class="w-full px-4 md:w-1/2">
-                      <label class="block text-copy-primary mb-2" for="email">
-                          Email Address
-                      </label>
-
-                      <input type="email" name="email" id="email" placeholder="email@example.com"  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
-                  </div>
-              </div>
-
-              <div class="w-full mb-12">
-                  <label class="block text-copy-primary mb-2" for="message">
-                      Message
-                  </label>
-
-                  <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-green-700 mb-2 px-4 py-4" placeholder="Enter your message here." required></textarea>
-              </div>
-
-              <div class="flex justify-end w-full">
-                  <input type="submit" value="Submit" class="block bg-green-700 hover:bg-green-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">
-              </div>
-          </form>
+         
           </div>
         </div>
       </div> <!-- end contact-me -->

@@ -68,11 +68,11 @@
 }
 
 a {
-  @apply text-purple-700;
+  @apply text-indigo-700;
 }
 
 a:hover {
-  @apply text-purple-800;
+  @apply text-indigo-800;
 }
 
 nav .active {
@@ -104,7 +104,7 @@ nav .active {
 }
 
 .checkmark {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg%20width%3D%2229%22%20height%3D%2229%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M4.427%2024.93A14.5%2014.5%200%201%201%2024.93%204.427c5.495%205.69%205.416%2014.733-.177%2020.326s-14.637%205.672-20.326.177z%22%20fill%3D%22%232E855A%22/%3E%3Cpath%20fill%3D%22%23FFF%22%20d%3D%22M10.234%2012.803l3.67%203.253L20.766%2010%2023%2012l-9.096%208L8%2014.789l2.234-2z%22/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M3.664 20.631A12 12 0 1 1 20.632 3.665c4.547 4.708 4.482 12.193-.147 16.821-4.628 4.63-12.113 4.694-16.821.146z' fill='%343434'/%3E%3Cpath d='M8.009 10.689l2.782 2.877 5.2-5.355 1.693 1.768-6.893 7.074-4.475-4.608 1.693-1.769v.013z' fill='%23fff'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   @apply pl-10;
 }
