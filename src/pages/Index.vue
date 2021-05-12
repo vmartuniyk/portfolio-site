@@ -39,7 +39,7 @@
           </li>
           <li class="checkmark">
             <div>Video Games site</div>
-            <div class="text-lg text-gray-600">This application built in Laravel that uses the IGDB API to display some game informations. This project uses HTTP client, Tailwind CSS, Livewire and Alpine.js <a href="https://github.com/vmartuniyk/video-games" target="_blank">GitHub Link</a> or <a href="http://games.martuniyk.space/" target="_blank">Live Link</a></div>
+            <div class="text-lg text-gray-600">This application built in Laravel that uses the IGDB API to display some game informations. This project uses HTTP client, Tailwind CSS, Livewire and Alpine.js <a href="https://github.com/vmartuniyk/video-games" target="_blank">GitHub Link</a> or <a href="https://video-games.vercel.app/" target="_blank">Live Link</a></div>
           </li>
           <li class="checkmark">
             <div>Book space | Book challenge </div>
