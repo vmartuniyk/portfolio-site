@@ -35,7 +35,7 @@
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
             <div>Tweety</div>
-            <div class="text-lg text-gray-600">This is a project copy of the Twitter site where you can, post your own tweets, subscribe to interesting users, edit your profile and much more. <a href="https://github.com/vmartuniyk/mini-twitter" target="_blank">GitHub Link</a> or <a href="https://www.martuniyk.space" target="_blank">Live Link</a></div>
+            <div class="text-lg text-gray-600">This is a project copy of the Twitter site where you can, post your own tweets, subscribe to interesting users, edit your profile and much more. <a href="https://github.com/vmartuniyk/mini-twitter" target="_blank">GitHub Link</a></div>
           </li>
           <li class="checkmark">
             <div>Video Games site</div>
